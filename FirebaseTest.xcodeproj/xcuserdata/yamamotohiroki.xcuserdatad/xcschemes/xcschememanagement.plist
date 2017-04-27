@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FirebaseTest.xcscheme</key>
+		<key>FirebaseTest.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -13,6 +13,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>B5DB9DA31EB1BA6300AC0D09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5DB9DBC1EB1BBE400AC0D09</key>
 		<dict>
 			<key>primary</key>
 			<true/>
